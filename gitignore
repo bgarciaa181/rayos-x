@@ -1,0 +1,3 @@
+# Informes generados con las opciones -g y -w
+informe_*.txt
+informe_*.html
